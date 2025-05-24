@@ -127,6 +127,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.idea
+.replit
+poetry.lock
+pyproject.toml
 
 # Spyder project settings
 .spyderproject
